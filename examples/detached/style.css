@@ -1,0 +1,15 @@
+body {
+  background-color: #E9E9E9;
+  color: #424242;
+}
+
+.content {
+  margin: auto;
+  width: 790px;
+}
+
+.mouseTracker {
+  height: 400px;
+  width: 400px;
+  background-color: #24AEEF
+}
