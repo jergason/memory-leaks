@@ -4,7 +4,7 @@ function updateCacheCount(cache) {
   $('span.cacheCount').text(cache.length)
 }
 
-function cacheMouseMovements(event) {
+function cacheMouseMovement(event) {
   cache.push({x: event.pageX, y: event.pageY})
   updateCacheCount(cache)
 }
